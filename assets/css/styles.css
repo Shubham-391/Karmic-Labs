@@ -540,7 +540,7 @@ a {
         position: fixed;
         top: 4%;
         right: 8%;
-        z-index: 3;
+        z-index: 11;
     }
 
     .icon span {
@@ -561,7 +561,7 @@ a {
         position: fixed;
         top: 0;
         right: -100%;
-        z-index: 2;
+        z-index: 10;
         transition: all 500ms linear;
         text-align: center;
         gap: 40px;
