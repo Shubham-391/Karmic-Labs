@@ -38,7 +38,7 @@
 
 /* font size */
 .small {
-    font-size: var(--s);
+    font-size: var(--s) !important;
 }
 
 .medium {
@@ -117,6 +117,10 @@ header nav .view ul li {
 
 a {
     color: unset !important;
+}
+
+.view ul li:hover {
+    font-weight: 700 !important;
 }
 
 /* navbar */
@@ -986,6 +990,11 @@ header nav .view ul {
     .s3circle {
         top: -8%;
         right: -12%;
+    }
+
+    .box3-1 {
+        max-width: 264px;
+        max-height: 276px;
     }
 
     /* section4 */
