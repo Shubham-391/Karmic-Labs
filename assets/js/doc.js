@@ -16,31 +16,46 @@ icon.addEventListener("click", function () {
         span2.classList.toggle("close-icon2");
         span3.classList.toggle("close-icon3");
     }
-})
+});
 
 
 
 home.addEventListener("click", function () {
     page.classList.toggle("right-0");
     document.querySelector("body").classList.remove("overflow-hidden");
-})
+    span1.classList.toggle("close-icon1");
+    span2.classList.toggle("close-icon2");
+    span3.classList.toggle("close-icon3");
+});
 
 services.addEventListener("click", function () {
     page.classList.toggle("right-0");
     document.querySelector("body").classList.remove("overflow-hidden");
-})
+    span1.classList.toggle("close-icon1");
+    span2.classList.toggle("close-icon2");
+    span3.classList.toggle("close-icon3");
+});
 
 projects.addEventListener("click", function () {
     page.classList.toggle("right-0");
     document.querySelector("body").classList.remove("overflow-hidden");
-})
+    span1.classList.toggle("close-icon1");
+    span2.classList.toggle("close-icon2");
+    span3.classList.toggle("close-icon3");
+});
 
 about.addEventListener("click", function () {
     page.classList.toggle("right-0");
     document.querySelector("body").classList.remove("overflow-hidden");
-})
+    span1.classList.toggle("close-icon1");
+    span2.classList.toggle("close-icon2");
+    span3.classList.toggle("close-icon3");
+});
 
 navbutton.addEventListener("click", function () {
     page.classList.toggle("right-0");
     document.querySelector("body").classList.remove("overflow-hidden");
-})
+    span1.classList.toggle("close-icon1");
+    span2.classList.toggle("close-icon2");
+    span3.classList.toggle("close-icon3");
+});
