@@ -762,10 +762,6 @@ header nav .view ul {
 
     /* section2 */
 
-    .mt-58 {
-        margin-top: 58px;
-    }
-
     .s2-col-6 {
         width: 46%;
     }
@@ -970,6 +966,11 @@ header nav .view ul {
 
 
     /* section 2 */
+
+    .mt-58 {
+        margin-top: 58px;
+    }
+
     .s2-col-3 {
         width: 23%;
     }
