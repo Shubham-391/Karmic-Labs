@@ -120,7 +120,7 @@ a {
 }
 
 .view ul li:hover {
-    font-weight: 700 !important;
+    -webkit-text-stroke: 0.2px black;
 }
 
 /* navbar */
@@ -305,7 +305,7 @@ header nav .view ul {
 .hero-sec-btn2:hover {
     background-color: var(--white);
     color: var(--black2) !important;
-    font-weight: 700 !important;
+    -webkit-text-stroke: 1px var(--black2) !important;
     border: transparent;
 }
 
